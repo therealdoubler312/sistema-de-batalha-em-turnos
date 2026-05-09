@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sistema de Batalha em Turnos/1.0.0": {
+        "runtime": {
+          "Sistema de Batalha em Turnos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Batalha em Turnos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
